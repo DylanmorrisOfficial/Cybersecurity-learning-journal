@@ -3,7 +3,11 @@
 ## Current Progress
 
 ### TryHackMe
-- Pre Security COMPLETED    
+- ✅ Pre Security (completed)
+
+<img src="assets/pre-security-completion.png" width="600">
+
+- Cyber Security 101 (ongoing)
 
 
 ## Weekly Journal
@@ -11,10 +15,11 @@
 
 ## Repository Structure
 
-- tryhackme/ - Module notes
-- tools/ - Tools used
-- learning-journal/ - Weekly progress updates
-- laba/ - Important labs completed
+- TryHackMe/ - Learning path and module notes
+- Tools/ - Tool notes and cheatsheets
+- Learning-Journal/ - Weekly progress updates
+- Labs/ - Notable labs and write-ups
+- Assets/ - Images and screenshots
 
 ## Goals
 
