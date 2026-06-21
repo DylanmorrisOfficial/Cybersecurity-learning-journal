@@ -2,7 +2,7 @@
 
 ## Learning Completed
 
-### TryHackMe - Pre Security
+### Pre Security
 
 Completed the entire Pre Security learning path.
 

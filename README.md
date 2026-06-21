@@ -12,6 +12,7 @@
 
 ## Weekly Journal
 - Week 1: Pre Security completed and Cyber Security 101 started
+- Week 2: Continuing through Cyber Security 101
 
 ## Repository Structure
 
