@@ -100,3 +100,55 @@ Windows automation and system administration.
 - Where-Object = Filter output
 - Measure-Object = Count or measure data
 
+## Wireshark
+
+Purpose:
+Capture and analyse network traffic.
+
+Features Practiced:
+- Packet capture
+- Display filters
+- Packet colouring
+- Find Packet
+- Follow TCP/UDP/HTTP streams
+- Export Objects
+- Packet comments
+- Example Display Filters
+- Protocol filters
+
+## Tcpdump
+
+Purpose:
+Capture and analyse network traffic from the Linux command line.
+
+### Commands Used
+
+sudo tcpdump = Start packet capture
+sudo tcpdump host <host> -w <file>.pcap = Capture traffic from a specific host and save it
+src port <port> and dst port <port> = Filter traffic by source and destination ports
+
+## Nmap
+
+Purpose:
+Network discovery and port scanning.
+
+### Commands Used
+
+nmap -sL = List scan
+Basic host discovery
+Basic network scanning
+
+## John the Ripper
+
+Purpose:
+Password auditing and hash cracking.
+
+### Commands Used
+
+john = Start password cracking against supported hash files
+
+Concepts Practiced:
+- Password hashes
+- Dictionary attacks
+- Basic password recovery
+
