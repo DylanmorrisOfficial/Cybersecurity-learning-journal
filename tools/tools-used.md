@@ -152,3 +152,75 @@ Concepts Practiced:
 - Dictionary attacks
 - Basic password recovery
 
+## Metasploit
+
+Purpose:
+Penetration testing framework used to discover, exploit and validate vulnerabilities.
+
+### Commands Used
+
+- msfconsole = Launch the Metasploit Framework
+- search = Search for available modules
+- use <module> = Select a module
+- show options = Display required module options
+- set <option> <value> = Set a module option
+- setg <option> <value> = Set a global option
+- info = Display information about a module
+- run = Execute the selected module
+- exploit = Launch an exploit
+- back = Exit the current module
+- sessions = List active sessions
+- workspace = Manage project workspaces
+
+## Meterpreter
+
+Purpose:
+Interact with compromised systems after successful exploitation.
+
+### Commands Used
+
+#### Navigation
+
+- pwd = Print working directory
+- ls = List files and directories
+- cd = Change directory
+
+#### File Management
+
+- cat = Display file contents
+- search = Search for files
+- upload = Upload files
+- download = Download files
+
+#### System Information
+
+- sysinfo = Display operating system information
+- getuid = Display current user
+- ps = List running processes
+- shell = Open a command shell
+
+## Burp Suite
+
+Purpose:
+Intercept, inspect and modify HTTP requests during web application testing.
+
+### Features Practiced
+
+- Proxy
+- HTTP request interception
+- HTTP history
+- Request modification
+- Repeater
+- Web application traffic analysis
+
+## SQL
+
+Purpose:
+Query and manage relational databases.
+
+### Commands Used
+
+- SELECT = Retrieve data from a table
+- FROM = Specify the table to query
+- WHERE = Filter query results
+- ORDER BY = Sort query results
